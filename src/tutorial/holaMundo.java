@@ -12,6 +12,8 @@ public class holaMundo {
 		
 		System.out.println("Hola paso 6.");
 		
+		System.out.println("Hola paso 7.");
+		
 	}
 
 }
