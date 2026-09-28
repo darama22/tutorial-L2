@@ -8,7 +8,7 @@ public class holaMundo {
 		System.out.println("hola q tal");
 		
 		
-		System.out.println("Hola paso 4");
+		System.out.println("Hola paso 4.");
 		
 	}
 
