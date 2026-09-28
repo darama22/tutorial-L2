@@ -13,6 +13,10 @@ public class holaMundo {
 		System.out.println("Hola paso 5.");
 		
 		System.out.println("Hola paso 8.");
+		System.out.println("Hola paso 6.");
+		
+		System.out.println("Hola paso 7.");
+		
 	}
 
 }
