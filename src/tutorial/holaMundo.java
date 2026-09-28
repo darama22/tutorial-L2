@@ -7,6 +7,7 @@ public class holaMundo {
 
 		System.out.println("hola q tal");
 		
+		System.out.println("Pasamos al paso 3");
 	
 	}
 
