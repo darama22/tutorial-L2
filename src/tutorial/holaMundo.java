@@ -10,6 +10,8 @@ public class holaMundo {
 		
 		System.out.println("Hola paso 4.");
 		
+		System.out.println("Hola paso 5.");
+		
 	}
 
 }
